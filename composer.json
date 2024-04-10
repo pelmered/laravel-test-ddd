@@ -27,7 +27,7 @@
             "App\\": "src/App/",
             "Domain\\": "src/Domain/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/",
+            "Database\\Seeders\\": "database/seeders/"
         }
     },
     "autoload-dev": {
